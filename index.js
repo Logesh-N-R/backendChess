@@ -18,6 +18,7 @@ const endPoints = {
 const db = mysql.createConnection({
     host: 'db4free.net',
     user: 'logeshloki',
+    port: 3306,
     password: 'Infi@123',
     database: 'newtest'
 });
