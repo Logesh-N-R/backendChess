@@ -16,10 +16,10 @@ const endPoints = {
 // sql connection
 // https://www.freemysqlhosting.net/account/
 const db = mysql.createConnection({
-    host: 'databases.000webhost.com',
-    user: 'id19990582_loki',
-    password: '*1+qpiMk5rxqJe@)',
-    database: 'id19990582_chess'
+    host: 'db4free.net',
+    user: 'logeshloki',
+    password: 'Infi@123',
+    database: 'newtest'
 });
 
 // connect data base
